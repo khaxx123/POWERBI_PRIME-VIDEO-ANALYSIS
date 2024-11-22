@@ -34,14 +34,4 @@ This repository contains my **first Power BI project** where I created an intera
 - Focused on intuitive and easy-to-understand visualizations.  
 - Explored interactive filtering and drill-through options for deeper insights.  
 
----
 
-### File Structure  
-```plaintext
-📂 Prime-Video-Dashboard  
-├── 📊 Prime-Video-Dashboard.pbix   # Power BI project file  
-├── 📂 data                         # Dataset used in the project  
-│   └── prime-video-data.csv  
-├── 📂 images                       # Screenshots of the dashboard  
-│   └── dashboard-overview.png  
-└── README.md                       # Project documentation  
