@@ -2,7 +2,8 @@
 # Prime Video Dashboard 🎥📊  
 
 ### Overview  
-This repository contains my **first Power BI project** where I created an interactive dashboard to analyze data about Amazon Prime Video. This project showcases my skills in **data visualization, filtering, and analysis**, using tools and features available in Power BI.  
+This repository contains my **first Power BI project** where I created an interactive dashboard to analyze data about Amazon Prime Video. This project showcases my skills in **data visualization, filtering, and analysis**, using tools and features available in Power BI.
+![image](https://github.com/user-attachments/assets/13fd5ce6-750a-4f8b-be05-29c5b42ae37b)
 
 ---
 
